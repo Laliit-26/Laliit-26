@@ -2,7 +2,7 @@
 
 <h2 align="center"> 👨‍💻 Who am I?</h2>
 <p align="center">
-  <samp>i am software deleloper developer in infoys limited. 
+  <samp>i am software deleloper in infoys limited working in middleware team of oracle cloud fusion appliction . 
 
 </samp><br>
 </p>
